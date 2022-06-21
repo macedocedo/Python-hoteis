@@ -1,0 +1,12 @@
+#list, #add, #edit {
+    cursor: pointer;
+}
+.hotel-list {
+    padding: 32px 0 32px 0;
+}
+
+.hotel-list__item {
+    margin-bottom: 16px;
+    display: flex;
+    gap: 16px;
+}
